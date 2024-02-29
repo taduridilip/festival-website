@@ -16,7 +16,7 @@ This repository contains the source code for a Festival Offer website, implement
 
 ### Installation
 To run the gym website locally as a single page application, follow these steps:
-- Clone this repository: git clone `https://github.com/taduridilip/Gym_Web_Application.git`
+- Clone this repository: git clone `https://github.com/taduridilip/festival-website`
 - Navigate to the project directory: cd FestivalOffer
 - Open the index.html file in your web browser.
 
