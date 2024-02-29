@@ -44,4 +44,4 @@ If you find any issues with the website or have suggestions for improvement, ple
 
 This gym website is available under the [MIT License](https://github.com/taduridilip/Gym_Web_Application/blob/Gym/LICENSE.md/Gym).
 
-### Project Live URI:  [Live Demo]( https://taduridilip.github.io/Gym_Web_Application/)
+### Project Live URI:  [Live Demo](https://taduridilip.github.io/festival-website/)
